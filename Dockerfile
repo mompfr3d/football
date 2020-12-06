@@ -1,5 +1,6 @@
-# 2. Fix Docker
+# 2. Fix und Feature Docker file
 # Kommentar 
+
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
 ARG DEVICE
